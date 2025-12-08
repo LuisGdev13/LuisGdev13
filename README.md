@@ -66,12 +66,3 @@ Apaixonado por tecnologia e construção de soluções inteligentes, estou em co
 ---
 
 <br>
-
-<h2 align="center">📊 Most Used Languages</h2>
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" 
-       width="350"
-  />
-</p>
